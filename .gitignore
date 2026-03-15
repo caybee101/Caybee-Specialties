@@ -1,0 +1,58 @@
+# macOS-related files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows-related files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+
+# Python related files
+/.venv
+*.pyc
+*.pyo
+*.egg-info
+*.cpython-*.so
+*.cpython-*.pyd
+/build
+
+# Editor/tool files
+*~
+*.bak
+.gdb_history
+uv.lock
+.vscode/
+
+# Compiled Ren'Py files
+*.rpyc
+*.rpyb
+*.rpymc
+
+# Ren'Py log files and generated directories
+log.txt
+errors.txt
+traceback.txt
+lint.txt
+saves/
+tmp/
+cache/
+
+# Executables (if built in the repo root)
+/renpy.exe
+/renpy2.exe
+/renpy3.exe
+/renpy-32.exe
+/renpy.sh
+/renpy2.sh
+/renpy3.sh
+/renpy2.app
+/renpy3.app
+
+# Libraries (if built in the repo root)
+/lib
+/rapt
+/rapt2
+/rapt3
